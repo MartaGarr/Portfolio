@@ -1,5 +1,5 @@
 # **Projects**
-## 1- Data Analyst Salary prediction
+## 1- Data Analyst Salary Prediction
 In this project, Natural language Processing was used to scape data from indeed.com  for data analyst jobs in large cities. Multiple prediction models were used to predict the salary.
 Also, the most relevent keywords to data analyst salary were predicted. This study help to predict the expected salary from other job posting sources. 
 
